@@ -19,16 +19,16 @@ Você deverá criar uma api, para um sistema de cadastro de clientes, tomando po
 
 
 ### Model de Users
-id - autoincrement e primary key
-username - varchar
-email - varchar
-password - deve ser encriptado utilizando o bcryptjs 
+id - autoincrement e primary key<br/>
+username - varchar<br/>
+email - varchar<br/>
+password - deve ser encriptado utilizando o bcryptjs <br/>
 
 ### Model de Contacts
-id - autoincrement e primary key
-name - varchar
-email - varchar
-mobile - varchar
+id - autoincrement e primary key<br/>
+name - varchar<br/>
+email - varchar<br/>
+mobile - varchar<br/>
 
 
 
